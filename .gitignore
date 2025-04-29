@@ -1,0 +1,82 @@
+# === Node.js / Next.js ===
+
+# Node modules
+/node_modules/
+
+# Next.js build output
+/.next/
+
+# Next.js static files
+/out/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Typescript build output
+*.tsbuildinfo
+
+# Environment files
+/.env
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# MacOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# === Python ===
+
+# Python bytecode
+__pycache__/
+/*.py[cod]
+
+# Python virtual environments
+/myenv/
+/venv/
+/.env/
+
+# Pipenv
+Pipfile.lock
+
+# Python package distribution
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test and coverage reports
+*.log
+*.pot
+*.mo
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# PyCharm settings
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Vim swap files
+*.swp
+
+# IDE/Editor files
+*.sublime-workspace
+*.sublime-project
+
+# Exclude the Python folder
+python/
+
+# Optionally exclude other large folders/files
+resume-generator/node_modules/
+resume-generator/.next/
+resume-generator/.env

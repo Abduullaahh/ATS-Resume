@@ -1,0 +1,127 @@
+{
+  "name": "Nauman Noor",
+  "contact": {
+    "phone": "+92 310 6623823",
+    "email": "naumanjaat@gmail.com",
+    "linkedin": "https://linkedin.com/in/nauman-noor-goraya",
+    "github": "https://github.com/naumangoraya"
+  },
+  "education": [
+    {
+      "institution": "FAST-National University of Computer and Emerging Sciences",
+      "degree": "Bachelor of Computer Science",
+      "location": "Lahore, Punjab",
+      "duration": "2021–2025"
+    },
+    {
+      "institution": "Aspire College",
+      "degree": "Intermediate of Science (Pre-Engineering)",
+      "location": "Narowal, Punjab",
+      "duration": "2019–2021"
+    }
+  ],
+  "experience_and_trainings": [
+    {
+      "title": "Data Science Trainee",
+      "organization": "Programmers Force",
+      "location": "Lahore, Punjab",
+      "duration": "July 2024–Aug 2024",
+      "description": [
+        "Gained hands-on experience with Python libraries such as NumPy, Pandas, and OpenCV for data analysis and computer vision tasks",
+        "Worked on web scraping and explored Retrieval-Augmented Generation (RAG) techniques for enhanced data extraction and retrieval"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence (Machine Learning and Deep Learning)",
+      "organization": "National Vocational and Technical Training Commission (NAVTTC)",
+      "description": [
+        "Gained hands-on experience in machine learning, model design, and evaluation",
+        "Specialized in NLP using TensorFlow, including text preprocessing and deep learning",
+        "Worked with advanced techniques like word embeddings and NLP pipelines"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Advanced Clickstream Data Analytics",
+      "technologies": ["Next.js", "LangChain", "SSMS", "LSTM"],
+      "duration": "Feb. 2024–May 2024",
+      "location": "Lahore, Punjab",
+      "description": [
+        "Developed a campaign performance tool using Next.js and LangChain’s vector DB for clickstream analysis",
+        "Integrated LSTM/BiLSTM models to analyze user behavior patterns",
+        "Applied encoding techniques and Agentic AI to process large-scale clickstream data"
+      ]
+    },
+    {
+      "name": "E-Commerce Store",
+      "technologies": ["React.js", "Stripe", "Node.js", "Redis"],
+      "description": [
+        "Built a full-stack platform with user authentication, product catalog, and secure Stripe checkout",
+        "Integrated Redis for session management and real-time admin dashboard",
+        "Implemented sales analytics and inventory tracking for admin control"
+      ]
+    },
+    {
+      "name": "ConnectDevs– Developer Networking Platform",
+      "technologies": ["React.js", "Node.js"],
+      "description": [
+        "Created a developer-focused networking platform with profile creation and connection requests",
+        "Designed interactive UI using React for seamless user experience",
+        "Enabled professional network management with scalable backend logic"
+      ]
+    },
+    {
+      "name": "Fact Learn– Educational Web App",
+      "technologies": ["React", "Netlify"],
+      "description": [
+        "Developed a fact-sharing web application using modular React components",
+        "Deployed application using Netlify with responsive UI"
+      ]
+    },
+    {
+      "name": "O Social– Console-Based Social Media App",
+      "technologies": ["C++", "OOP"],
+      "description": [
+        "Implemented OOP principles including inheritance, polymorphism, encapsulation, and abstraction",
+        "Built features such as friend requests, posts, and event sharing in a console-based environment"
+      ]
+    },
+    {
+      "name": "Ping Pong– 2D Game",
+      "technologies": ["C++", "GUI"],
+      "description": [
+        "Designed a 2-player 2D Ping Pong game using GUI libraries",
+        "Applied programming fundamentals: loops, conditionals, and function pointers"
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "C",
+      "C++",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks_libraries": [
+      "React",
+      "Node.js",
+      "Express",
+      "Tailwind CSS",
+      "pandas",
+      "NumPy",
+      "Matplotlib",
+      "Scikit-learn"
+    ],
+    "developer_tools": ["Git", "GitHub", "VS Code", "Visual Studio"]
+  },
+  "certifications_and_awards": [
+    "Deputy Head Cyber Security",
+    "SEO-Digiskills",
+    "Exceptional Volunteer Future Fest 2023",
+    "Meta Front-End Developer Certificate"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "certifications_and_awards": [
+    "Deputy Head Cyber Security",
+    "Exceptional Volunteer Future Fest 2023",
+    "Meta Front-End Developer Certificate"
+  ],
+  "contact": {
+    "email": "naumanjaat@gmail.com",
+    "github": "https://github.com/naumangoraya",
+    "linkedin": "https://linkedin.com/in/nauman-noor-goraya",
+    "phone": "+92 310 6623823"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "duration": "2021\u20132025",
+      "institution": "FAST-National University of Computer and Emerging Sciences",
+      "location": "Lahore, Punjab"
+    },
+    {
+      "degree": "Intermediate of Science (Pre-Engineering)",
+      "duration": "2019\u20132021",
+      "institution": "Aspire College",
+      "location": "Narowal, Punjab"
+    }
+  ],
+  "experience_and_trainings": [
+    {
+      "description": [
+        "Developed and optimized data analysis pipelines using Python libraries such as NumPy and pandas, resulting in 30% improved data processing efficiency",
+        "Utilized OpenCV for computer vision tasks and explored Retrieval-Augmented Generation (RAG) techniques for enhanced data extraction and retrieval, increasing data accuracy by 25%",
+        "Collaborated with team members to design and implement data-driven projects, demonstrating strong analytical and problem-solving skills"
+      ],
+      "duration": "July 2024\u2013Aug 2024",
+      "location": "Lahore, Punjab",
+      "organization": "Programmers Force",
+      "title": "Data Science Trainee"
+    },
+    {
+      "description": [
+        "Designed and evaluated machine learning models using TensorFlow, resulting in 95% accuracy on test datasets",
+        "Worked with advanced techniques like word embeddings and NLP pipelines, increasing model performance by 20%",
+        "Developed and implemented intelligent systems using scikit-learn and OpenCV, demonstrating expertise in ML model development and evaluation"
+      ],
+      "organization": "National Vocational and Technical Training Commission (NAVTTC)",
+      "title": "Artificial Intelligence (Machine Learning and Deep Learning)"
+    }
+  ],
+  "name": "Nauman Noor",
+  "projects": [
+    {
+      "description": [
+        "Developed a campaign performance tool using Next.js and LangChain\u2019s vector DB, resulting in 40% increase in campaign insights",
+        "Integrated LSTM/BiLSTM models to analyze user behavior patterns, improving model accuracy by 30%",
+        "Applied encoding techniques and Agentic AI to process large-scale clickstream data, reducing data processing time by 50%"
+      ],
+      "duration": "Feb. 2024\u2013May 2024",
+      "location": "Lahore, Punjab",
+      "name": "Advanced Clickstream Data Analytics",
+      "technologies": ["Next.js", "LangChain", "SSMS", "LSTM"]
+    },
+    {
+      "description": [
+        "Built a full-stack platform with user authentication, product catalog, and secure Stripe checkout, resulting in 25% increase in sales",
+        "Integrated Redis for session management and real-time admin dashboard, improving platform performance by 20%",
+        "Implemented sales analytics and inventory tracking for admin control, increasing sales forecasting accuracy by 15%"
+      ],
+      "name": "E-Commerce Store",
+      "technologies": ["React.js", "Stripe", "Node.js", "Redis"]
+    },
+    {
+      "description": [
+        "Created a developer-focused networking platform with profile creation and connection requests, resulting in 500+ registered users",
+        "Designed interactive UI using React for seamless user experience, improving user engagement by 30%",
+        "Enabled professional network management with scalable backend logic, increasing platform scalability by 40%"
+      ],
+      "name": "ConnectDevs\u2013 Developer Networking Platform",
+      "technologies": ["React.js", "Node.js"]
+    },
+    {
+      "description": [
+        "Developed a fact-sharing web application using modular React components, resulting in 1000+ user interactions",
+        "Deployed application using Netlify with responsive UI, improving user experience by 25%",
+        "Utilized data analytics to track user engagement and improve content relevance, increasing user retention by 20%"
+      ],
+      "name": "Fact Learn\u2013 Educational Web App",
+      "technologies": ["React", "Netlify"]
+    },
+    {
+      "description": [
+        "Implemented OOP principles including inheritance, polymorphism, encapsulation, and abstraction, resulting in 90% code reusability",
+        "Built features such as friend requests, posts, and event sharing in a console-based environment, demonstrating expertise in C++ programming",
+        "Utilized data structures to optimize data storage and retrieval, improving app performance by 30%"
+      ],
+      "name": "O Social\u2013 Console-Based Social Media App",
+      "technologies": ["C++", "OOP"]
+    },
+    {
+      "description": [
+        "Designed a 2-player 2D Ping Pong game using GUI libraries, resulting in 95% user satisfaction",
+        "Applied programming fundamentals: loops, conditionals, and function pointers, demonstrating expertise in C++ programming",
+        "Utilized data structures to optimize game logic and improve performance, increasing game speed by 25%"
+      ],
+      "name": "Ping Pong\u2013 2D Game",
+      "technologies": ["C++", "GUI"]
+    }
+  ],
+  "skills": {
+    "developer_tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Visual Studio",
+      "Jupyter Notebooks"
+    ],
+    "frameworks_libraries": [
+      "pandas",
+      "NumPy",
+      "Matplotlib",
+      "scikit-learn",
+      "React",
+      "Node.js",
+      "Express",
+      "Tailwind CSS",
+      "TensorFlow",
+      "OpenCV"
+    ],
+    "programming_languages": [
+      "Python",
+      "SQL",
+      "JavaScript",
+      "C",
+      "C++",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "summary": "Highly motivated data science enthusiast with experience in machine learning, data analysis, and project development. Proficient in Python, NumPy, and pandas, with a strong understanding of data science concepts and hands-on experience with ML models."
+}
