@@ -59,6 +59,7 @@ nosetests.xml
 coverage.xml
 *.cover
 *.hypothesis/
+/myenv
 
 # PyCharm settings
 .idea/
@@ -73,10 +74,19 @@ coverage.xml
 *.sublime-workspace
 *.sublime-project
 
-# Exclude the Python folder
-python/
+# === Excluded Large or Unnecessary Files ===
 
-# Optionally exclude other large folders/files
-resume-generator/node_modules/
-resume-generator/.next/
+# Ignore large data files
+resume-generator/resume_embeddings.npy
+
+# Ignore environment variables or other sensitive files
 resume-generator/.env
+
+# === Explicitly Track Important Files ===
+
+# Keep important files tracked
+!resume_enhancer_with_vector_db.py
+!requirements.txt
+!resumes.csv
+!resume_api.py
+
